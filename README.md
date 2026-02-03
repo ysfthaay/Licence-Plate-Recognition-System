@@ -40,7 +40,7 @@ Output: The recognized plate number is displayed, and the annotated image is ren
 
 **🚀 How to Use**
 
-Open the .ipynb file in Google Colab.
+Open the .ipynb file in Google Colab or you can open python file that I additionaly added to the repository which only consist the important code. (I recommend to use Google Collab)
 
 Install the required libraries (!pip install easyocr opencv-python).
 
